@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\Naming-Homework\C#\Mini4ki\bin\Debug\Minesweeper.exe
+C:\Users\ASUS\Desktop\Naming-Homework\C#\Mini4ki\bin\Debug\Minesweeper.pdb
+C:\Users\ASUS\Desktop\Naming-Homework\C#\Mini4ki\obj\Debug\MineSweeper.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Naming-Homework\C#\Mini4ki\obj\Debug\Minesweeper.exe
+C:\Users\ASUS\Desktop\Naming-Homework\C#\Mini4ki\obj\Debug\Minesweeper.pdb
+C:\Users\ASUS\Desktop\Naming-Homework\C#\MinesGame\obj\Debug\Minesweeper.exe
+C:\Users\ASUS\Desktop\Naming-Homework\C#\MinesGame\obj\Debug\Minesweeper.pdb
+C:\Users\ASUS\Desktop\Naming-Homework\C#\MinesGame\bin\Debug\Minesweeper.exe
+C:\Users\ASUS\Desktop\Naming-Homework\C#\MinesGame\bin\Debug\Minesweeper.pdb
+C:\Users\ASUS\Desktop\Naming-Homework\C#\MinesGame\obj\Debug\MineSweeper.csprojResolveAssemblyReference.cache
