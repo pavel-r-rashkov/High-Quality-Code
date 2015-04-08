@@ -1,0 +1,16 @@
+c:\users\asus\documents\visual studio 2013\Projects\Formatting_Homework\Formatting_Homework\bin\Debug\Formatting_Homework.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Formatting_Homework\Formatting_Homework\bin\Debug\Formatting_Homework.exe
+c:\users\asus\documents\visual studio 2013\Projects\Formatting_Homework\Formatting_Homework\bin\Debug\Formatting_Homework.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Formatting_Homework\Formatting_Homework\bin\Debug\PowerCollections.dll
+c:\users\asus\documents\visual studio 2013\Projects\Formatting_Homework\Formatting_Homework\bin\Debug\PowerCollections.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Formatting_Homework\Formatting_Homework\obj\Debug\Formatting_Homework.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\Formatting_Homework\Formatting_Homework\obj\Debug\Formatting_Homework.exe
+c:\users\asus\documents\visual studio 2013\Projects\Formatting_Homework\Formatting_Homework\obj\Debug\Formatting_Homework.pdb
+C:\Users\ASUS\Desktop\Formattiong-Homework\CSharpCode\Formatting_Homework\Formatting_Homework\bin\Debug\Formatting_Homework.exe.config
+C:\Users\ASUS\Desktop\Formattiong-Homework\CSharpCode\Formatting_Homework\Formatting_Homework\obj\Debug\Formatting_Homework.exe
+C:\Users\ASUS\Desktop\Formattiong-Homework\CSharpCode\Formatting_Homework\Formatting_Homework\obj\Debug\Formatting_Homework.pdb
+C:\Users\ASUS\Desktop\Formattiong-Homework\CSharpCode\Formatting_Homework\Formatting_Homework\bin\Debug\Formatting_Homework.exe
+C:\Users\ASUS\Desktop\Formattiong-Homework\CSharpCode\Formatting_Homework\Formatting_Homework\bin\Debug\Formatting_Homework.pdb
+C:\Users\ASUS\Desktop\Formattiong-Homework\CSharpCode\Formatting_Homework\Formatting_Homework\bin\Debug\PowerCollections.dll
+C:\Users\ASUS\Desktop\Formattiong-Homework\CSharpCode\Formatting_Homework\Formatting_Homework\bin\Debug\PowerCollections.pdb
+C:\Users\ASUS\Desktop\Formattiong-Homework\CSharpCode\Formatting_Homework\Formatting_Homework\obj\Debug\Formatting_Homework.csprojResolveAssemblyReference.cache
